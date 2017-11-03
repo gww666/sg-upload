@@ -1,0 +1,25 @@
+{
+  "name": "sg-upload",
+  "version": "1.0.0",
+  "description": "a imgUpload plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gww666/sg-upload.git"
+  },
+  "keywords": [
+    "upload",
+    "img",
+    "canvas",
+    "filereader"
+  ],
+  "homepage": "https://github.com/gww666/sg-upload",
+  "author": "gw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gww666/sg-upload/issues"
+  }
+}
